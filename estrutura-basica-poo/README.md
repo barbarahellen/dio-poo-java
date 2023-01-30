@@ -1,4 +1,4 @@
 ## Estrutura básica da POO
 
-Exemplos feitos durante o curso.
+Exemplos feitos durante o curso
 
