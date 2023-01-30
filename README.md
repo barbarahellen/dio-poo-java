@@ -1,2 +1,2 @@
 # dio-poo-java
-Repositório para armazenar os conteúdos do curso de Programação orientada a objetos em Java da DIO.
+Repositório para armazenar os conteúdos do módulo de Programação orientada a objetos em Java da DIO.

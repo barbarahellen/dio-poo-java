@@ -1,0 +1,5 @@
+package associação;
+
+class Endereco{
+
+}
