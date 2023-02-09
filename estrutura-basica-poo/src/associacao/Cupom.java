@@ -1,4 +1,4 @@
-package associação;
+package associacao;
 
 public class Cupom {
     
