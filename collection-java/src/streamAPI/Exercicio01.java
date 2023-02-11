@@ -60,7 +60,5 @@ public class Exercicio01 {
         collectList.removeIf(i -> (i % 2 != 0));
         System.out.println(collectList);
 
-
-        
     }
 }

@@ -68,8 +68,6 @@ public class RefatoracaoOrdenacaoMap {
             System.out.println(entry.getKey() + " - " + entry.getValue().getNumero() + ": " + entry.getValue().getNome());
         }
 
-
-
         System.out.println("--\tOrdem nome contato\t--");
 
         //precisamos organizar os valores. Logo:
