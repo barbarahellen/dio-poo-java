@@ -1,7 +1,5 @@
 # Trabalhando com Collections Java
 
-# Trabalhando com Collections Java
-
 **Collection:** é um objeto que agrupa múltiplos elementos (variáveis primitivas ou objetos) dentro de uma única unidade. Serve para armazenar e processar conjuntos de dados de forma eficiente
 
 Composição:
