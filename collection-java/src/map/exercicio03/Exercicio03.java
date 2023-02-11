@@ -1,5 +1,6 @@
 package map.exercicio03;
 import java.util.*;
+
 /*
     Dadas as seguintes informações  de id e contato, crie um dicionário e
     ordene este dicionário exibindo (Nome id - Nome contato);
@@ -7,6 +8,7 @@ import java.util.*;
     id = 4 - Contato = nome: Cami, numero: 5555;
     id = 3 - Contato = nome: Jon, numero: 1111;
 */
+
 public class Exercicio03 {
     public static void main(String[] args) {
         System.out.println("--\tOrdem aleatória\t--");

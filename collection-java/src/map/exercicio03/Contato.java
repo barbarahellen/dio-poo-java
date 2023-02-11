@@ -1,5 +1,4 @@
 package map.exercicio03;
-
 import java.util.Objects;
 
 public class Contato {
