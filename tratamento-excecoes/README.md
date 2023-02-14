@@ -6,6 +6,11 @@
 - Com o tratamento de exceções, o programa pode continuar executando depois de lidar com um problema.
 - Incorpore sua estratégia de tratamento de exceções no sistema desde o princípio do projeto.
 
+**Hierarquia:**
+<div align="center">
+<img src="https://i.ibb.co/VjT23Rr/amoTu.png" alt="amoTu" border="0" width="400" height="600">
+</div>
+
 ### Classificação:
 
 - **Error:** usado pela JVM, serve para indicar se existe algum problema de recurso do programa, tornando a execução impossível de continuar.  O “Erro” é algo que não pode mais ser tratado, ao contrário da “Exceção” que trata seus erros, pois todas as subclasses de Exception (menos as subclasses RuntimeException) são exceções que obrigatóriamente devem ser tratadas.
