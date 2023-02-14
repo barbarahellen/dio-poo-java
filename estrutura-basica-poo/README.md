@@ -220,7 +220,7 @@ import nomeDaPasta;  // torna as pastas visíveis
 **Visibilidades:** um modificador de acesso tem como finalidade determinar até que ponto uma classe, atributo ou método pode ser usado. A utilização de modificadores de acesso é fundamental para o uso efetivo da orientação a objetos.
 
 - Tipos:
-    - **Private:** métodos ****são visíveis apenas dentro da classe onde foram definidos.
+    - **Private:** métodos são visíveis apenas dentro da classe onde foram definidos.
     - **Protected:** métodos são visíveis dentro da classe, mesmo pacote e subclasses
     - **Public:** métodos são visíveis em qualquer lugar
 
