@@ -31,7 +31,6 @@ A orientação a objetos é um paradigma de análise, projeto e programação de
     
     ```java
     class Carro{
-    	int qtdPortas;
     
     }
     ```
@@ -43,7 +42,7 @@ A orientação a objetos é um paradigma de análise, projeto e programação de
         
         ```java
         class Carro{
-        	int portas;
+        	int qtdPortas;
         }
         ```
         
